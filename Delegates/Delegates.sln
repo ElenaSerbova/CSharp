@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "Delegates\Delegates.csproj", "{7F4BF2DE-7FD9-46B5-85BF-E073036A749F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MulticastDelegates", "MulticastDelegates\MulticastDelegates.csproj", "{7B711C50-D552-4A4B-A1E7-15D1CF710F8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F4BF2DE-7FD9-46B5-85BF-E073036A749F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F4BF2DE-7FD9-46B5-85BF-E073036A749F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F4BF2DE-7FD9-46B5-85BF-E073036A749F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F4BF2DE-7FD9-46B5-85BF-E073036A749F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B711C50-D552-4A4B-A1E7-15D1CF710F8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B711C50-D552-4A4B-A1E7-15D1CF710F8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B711C50-D552-4A4B-A1E7-15D1CF710F8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B711C50-D552-4A4B-A1E7-15D1CF710F8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6634F158-4ACE-4932-98BF-3FE0C76B6286}
+	EndGlobalSection
+EndGlobal
